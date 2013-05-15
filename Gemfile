@@ -20,6 +20,7 @@ gem 'friendly_id'
 gem 'unicorn'
 gem 'simple_form'
 gem 'haml'
+gem 'haml-rails'
 
 group :development, :test do
   gem 'rspec'
