@@ -21,6 +21,7 @@ gem 'unicorn'
 gem 'simple_form'
 gem 'haml'
 gem 'haml-rails'
+gem 'devise'
 
 group :development, :test do
   gem 'rspec'
