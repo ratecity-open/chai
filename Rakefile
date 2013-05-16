@@ -5,3 +5,11 @@
 require File.expand_path('../config/application', __FILE__)
 
 Chai::Application.load_tasks
+
+task(:default).clear
+task :default => [
+  'db:create',
+  'db:migrate',
+  'db:test:prepare',
+  'spec'
+]
