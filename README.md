@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ratecity/chai.png?branch=master)](https://travis-ci.org/ratecity/chai)
+
 ## Welcome to Chai
 
 Chai is a Rails webapp for management of your team coffee order.
