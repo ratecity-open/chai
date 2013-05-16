@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/ratecity/chai.png?branch=master)](https://travis-ci.org/ratecity/chai)
 [![Code Climate](https://codeclimate.com/github/ratecity/chai.png)](https://codeclimate.com/github/ratecity/chai)
+[![Coverage Status](https://coveralls.io/repos/ratecity/chai/badge.png?branch=master)](https://coveralls.io/r/ratecity/chai?branch=master)
 
 ## Welcome to Chai
 
